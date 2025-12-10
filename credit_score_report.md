@@ -1,12 +1,21 @@
+<img src="SETTAT.png" style="height:100px;margin-right:95px"/> 
+
 # Rapport d'Analyse et de Modélisation
 ## Classification des Scores de Crédit
 
+## Réaliser par : BAKKOURY SALMA
+
+<img src="Photo salma.jpg" style="height:200px;margin-right:100px"/>
+
 ---
+
+### Objectif du projet 
+Développer un système de classification automatisé capable de prédire le score de crédit d'un individu basé sur ses caractéristiques financières et comportementales.
+
 
 ## Table des Matières
 
 1. [Introduction](#introduction)
-2. [Objectifs du Projet](#objectifs)
 3. [Méthodologie](#méthodologie)
 4. [Analyse et Résultats](#analyse-et-résultats)
    - [Étape 1 : Importation des Bibliothèques](#étape-1)
@@ -33,26 +42,6 @@ Le score de crédit est classifié en trois catégories :
 - **Standard (Moyen)** : Client à risque modéré
 - **Poor (Faible)** : Client à haut risque
 
----
-
-## 2. Objectifs du Projet {#objectifs}
-
-### Objectif Principal
-Développer un système de classification automatisé capable de prédire le score de crédit d'un individu basé sur ses caractéristiques financières et comportementales.
-
-### Objectifs Spécifiques
-1. **Explorer et comprendre** les facteurs déterminants du score de crédit
-2. **Nettoyer et préparer** les données pour une analyse optimale
-3. **Identifier les relations** entre les variables financières et le score de crédit
-4. **Construire et comparer** plusieurs modèles de Machine Learning
-5. **Évaluer la performance** des modèles selon des métriques appropriées
-6. **Recommander** le meilleur modèle pour une mise en production
-
-### Bénéfices Attendus
-- Réduction du risque de crédit pour les institutions financières
-- Automatisation du processus de décision de prêt
-- Amélioration de l'équité dans l'attribution des crédits
-- Réduction des coûts opérationnels liés à l'évaluation manuelle
 
 ---
 
