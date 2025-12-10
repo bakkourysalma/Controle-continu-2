@@ -241,6 +241,8 @@ corr = df_work[numeric_cols].corr()
 sns.heatmap(corr, annot=True, fmt='.2f', cmap='coolwarm', ax=axes[1, 1])
 ```
 
+<img src="GRAPHE n 1.png" style="height:500px;margin-right:350px"/>
+
 **Interprétation :**
 
 #### 5.1 Statistiques Descriptives
@@ -301,6 +303,8 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 ```
+
+<img src="GRAPHE N 2.png" style="height:500px;margin-right:350px"/> 
 
 **Interprétation :**
 
