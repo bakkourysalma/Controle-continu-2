@@ -1,6 +1,6 @@
 <img src="SETTAT.png" style="height:100px;margin-right:95px"/> 
 
-# Rapport d'Analyse et de Modélisation
+# Rapport d'Analyse et de Modélisation : Finance – Gestion du risque de crédit
 ## Classification des Scores de Crédit
 
 ## Réaliser par : BAKKOURY SALMA
