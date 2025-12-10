@@ -3,7 +3,8 @@
 # Rapport d'Analyse et de Modélisation : Finance – Gestion du risque de crédit
 ## Classification des Scores de Crédit
 
-## Réaliser par : BAKKOURY SALMA  CAC 1
+## Réaliser par : BAKKOURY SALMA  
+CAC 1
 
 <img src="Photo salma.jpg" style="height:200px;margin-right:100px"/>
 
